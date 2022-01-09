@@ -1,0 +1,7 @@
+To use, please type in make
+Then type ./UnixLs and then your command. 
+
+ie: ./UnixLs -li
+
+./UnixLs prints all the given files, just like how ls works!
+
